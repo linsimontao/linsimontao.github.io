@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Joan",
+                "words": "Nihao SP,\nDear Friend, Thanks so much again for coming all the way to Singapore.\nWe have done tremendous work for our APAC Team to lift up our knowledge, skill and spirit. You are always belonging to our APAC family. Hand to hand, Heart to heart, Soul to soul. I don’t want to say Goodbye but See U soon in Shanghai!! Shanghai!!! -next destination. 100% rest assured that you will have a nicer apartment, food and free time to look around with your Si Fu -Ms. Yan.",
+                "pic": {
+                    "person": "/pic/Joan/person.png",
+                    "location":  "/pic/Joan/location.png"
+                },
+                "settings": {
+                    "bearing": 27,
+                    "center": [121.490577, 31.2402611],
+                    "zoom": 15,
+                    "pitch": 20
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [121.490577, 31.2402611]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tao",
+                "words": "Hi Scott, \n It is a pity that we don't have a chance to grab a beer and talk this time. But I believe we can do it in near future. See you soon in Tokyo or Beijing!!",
+                "pic": {
+                    "location":  "/pic/Tao/location.jpg"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [139.8755225, 35.634496],
+                    "zoom": 13,
+                    "pitch": 30
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.8755225, 35.634496]
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: black;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    position: fixed;
+    width: 60%;
+}
+
+#features {
+    width: 40%;
+    margin-left: 60%;
+    font-family: sans-serif;
+    overflow-y: scroll;
+    background-color: #fafafa;
+    color: black;
+}
+
+section {
+    padding: 25px 50px;
+    line-height: 25px;
+    border-bottom: 1px solid #ddd;
+    opacity: 0.25;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+section.active {
+    opacity: 1;
+}
+
+section:last-child {
+    border-bottom: none;
+}
