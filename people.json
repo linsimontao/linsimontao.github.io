@@ -285,6 +285,26 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "LIoyd",
+                "words": "Hey Scott, It’s always difficult to say goodbye to you. I wish you great success on your next journey. Please tell me if you travel to Shanghai. I’m glad to be your guide. Let’s keep in touch.",
+                "pic": {
+                    "location":  "/pic/LIoyd/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [121.3426684, 31.3887751],
+                    "zoom": 12,
+                    "pitch": 70
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [120.3556316, 31.2218363]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Tao",
                 "words": "Hi Scott, \n It is a pity that we don't have a chance to grab a beer and talk this time. But I believe we can do it in near future. See you soon in Tokyo or Beijing!!",
                 "pic": {
