@@ -265,26 +265,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Noah",
-                "words": "Hi Scott,\n\nThank you for the knowledge, experience and spirit you brought to our APAC team. We will definitely miss you! I am very happy that you can be with your loved one at Christmas.\nWish you all the best and a safe journey!\n\nCheers,\nNoah",
-                "pic": {
-                    "location":  "/pic/Noah/location.png"
-                },
-                "settings": {
-                    "bearing": 45,
-                    "center": [120.3556316, 31.2218363],
-                    "zoom": 12,
-                    "pitch": 70
-                }
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [120.3556316, 31.2218363]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Kevin",
                 "words": "Hi Scott,\nMany thanks for your contributions to the APAC team, looking forward to seeing you next time in person in Beijing.",
                 "pic": {

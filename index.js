@@ -1,8 +1,8 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiZGVtby1zYS1qcCIsImEiOiJja3E4czJiNncwajE3MnVvd2pjajBpYjNyIn0.rFNF9jYW3yhHrlbOZMaxQg';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZmx5bG92ZXlpbiIsImEiOiJjamxrbDdwYzEwbnRkM3Bvc2FrNXJkdnBqIn0.BcLOSxmkqBsdtirv1YtYVw';
 const start = [121.490577, 31.2402611];
 const map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/streets-v11',
+    style: 'mapbox://styles/flyloveyin/cktxsypao0ach17qsaiw1l1eb',
     center: start,
     zoom: 15.5,
     bearing: 27,
