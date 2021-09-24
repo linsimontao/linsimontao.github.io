@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Joan",
+                "name": "Joan Yan",
                 "words": "Nihao SP,\nDear Friend, Thanks so much again for coming all the way to Singapore.\nYou have done tremendous work for our APAC Team to lift up our knowledge, skill and spirit. You are always belonging to our APAC family. Hand to hand, Heart to heart, Soul to soul. I don’t want to say Goodbye but See U soon in Shanghai!! Shanghai!!! -next destination. 100% rest assured that you will have a nicer apartment, food and free time to look around with your Shi Fu -Ms. Yan.",
                 "pic": {
                     "person": "/pic/Joan/person.png",
@@ -20,6 +20,286 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [121.490577, 31.2402611]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jing Liu",
+                "words": "Hi Scott,\n\n6 months fly so quickly! Although we are remote, it makes me feel we have been met in person every time receiving the guidance you offered. I’d like to recommend the small but beautiful city in Poland to you because it is the first city I travel abroad and I had a month-long summer school project there with a group of students from Russia, Australia, India and Ukraine… Which is similar as our APAC team --- various nationality, culture and habit but enjoy the same goal. All the best to you!\n\nJing@Shanghai",
+                "pic": {
+                    "location":  "/pic/Jing/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [16.7116891, 51.1271742],
+                    "zoom": 10,
+                    "pitch": 30
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.7116891, 51.1271742]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sweta",
+                "words": "Having you in Singapore to support us really made a huge difference for our young and growing APAC team. I really admire and appreciate the way you helped us with even the smallest of doubts. You made sure that the right training/resources are made available for our APAC team. Though it’s sad to see you go, I am happy that you’ll be with your loved ones during Christmas. All the best :)",
+                "pic": {
+                    "location":  "/pic/Sweta/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [76.4545799, 15.3331897],
+                    "zoom": 13,
+                    "pitch": 30
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [76.4545799, 15.3331897]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zoe Wang",
+                "words": "Hi Scott,\n\nIt’s sad to see you go but happy for your reunion with your love ones, thanks for your contribution to APAC Team, always remember APAC might be one of your lucky places, you have been nominated 2 times on your outstanding performance during your past 6 months here, we wish you all the best and a safe journey home, you will be missed for sure :)\n\nBest\nZW",
+                "pic": {
+                    "location":  "/pic/Zoe/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [103.853053, 1.293146],
+                    "zoom": 13,
+                    "pitch": 30
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.853053, 1.293146]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Venkat",
+                "words": "We are very lucky to have a great colleague like you. Having you on the team makes a huge difference, you cheer up for everybody and lift up our spirits. I admire how you never shy away from your responsibilities. It is sad that you will be going back to the states soon, but I’m happy that you will be able to go back home and be with your loved ones. You have sacrificed your personal life and time for us. We wish you could come visit us often and we could also visit you once the pandemic has settled down. Wish you good luck, our love and regards to Rachel.",
+                "pic": {
+                    "location":  "/pic/Venkat/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [103.853053, 1.293146],
+                    "zoom": 13,
+                    "pitch": 30
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.853053, 1.293146]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tobias Abdon",
+                "words": "Scott,\n\nThanks for all of the help. Your knowledge and insight made it much easier for me to learn about and sell Mapbox. You always have a place to stay here in Thailand once travel opens up!\nAll the best,\nTobias",
+                "pic": {
+                    "location":  "/pic/Tobias/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [101.40831095229255, 14.373754253289585],
+                    "zoom": 13,
+                    "pitch": 30
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.40831095229255, 14.373754253289585]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alex",
+                "words": "Scott,\n\nTo say you have been the lynchpin of this operation would be the understatement of the century. Thank you for moving across the planet (during a global pandemic no less) to build out the vision for TAM in APAC. You have been instrumental in forming the core culture of this team and we will surely miss you!\n\nYour brother in baldness, Alex\n",
+                "pic": {
+                    "location":  "/pic/Alex/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [-114.4062527, 48.6596969],
+                    "zoom": 13,
+                    "pitch": 60
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-114.4062527, 48.6596969]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jasmine Wu",
+                "words": "Scott,\n\nThank you so much for all the support & help! It’s so nice to work with you.  Your experience and your knowledge are so helpful in our work and that makes our jobs more efficient. There are so many places I want to bring you to in Beijing. However, if you ever travel back again, there is one place here you will never miss out!  Safe trip home and I’m sure we will meet again soon : )",
+                "pic": {
+                    "location":  "/pic/Jasmine/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [115.8370391,39.9379962],
+                    "zoom": 12,
+                    "pitch": 60
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [115.8370391,39.9379962]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Daaaamn Daniel",
+                "words": "Scott,\n\nThanks for everything you’ve done for us, you have been a great addition to the APAC team, always willing to help, offering advice and an around great guy to hang out with. You will be sorely missed and I genuinely look forward to meeting you again when this blows over (either in the US or back here in Singapore!)\n\nCheers,\nDan",
+                "pic": {
+                    "location":  "/pic/Daniel/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [144.7729551, -37.9722342],
+                    "zoom": 12,
+                    "pitch": 60
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [144.7729551, -37.9722342]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Doris Mah",
+                "words": "Hi Scott,\n\nIt has been a pleasure knowing you and thank you for all the help and guidance you have provided to me since I joined the Mapbox family.\nAs much as we would like you to stay, we are happy for your reunion with your loved ones. In any chance, I look forward to seeing you again either in Singapore or US once travel permitted.\n\nCheers,\nDoris",
+                "pic": {
+                    "location":  "/pic/Doris/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [121.8368087, 25.108715],
+                    "zoom": 12,
+                    "pitch": 60
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [121.8368087, 25.108715]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mofei",
+                "words": "I am very glad to work with you in the APAC team. Next time you come to China, you must visit Huangshan mountain, I will wait for you at the top of Huangshan mountain. All the best!",
+                "pic": {
+                    "location":  "/pic/Mofei/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [116.9316705, 29.9527984],
+                    "zoom": 12,
+                    "pitch": 70
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [116.9316705, 29.9527984]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Macro",
+                "words": "Hi, Scott\nThanks for everything you’ve done for us. I’m looking forward to meeting you in Shanghai next time.\nMacroShen",
+                "pic": {
+                    "location":  "/pic/Macro/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [120.9537626, 30.8136069],
+                    "zoom": 14,
+                    "pitch": 70
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [120.9537626, 30.8136069]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Noah",
+                "words": "Hi Scott,\n\nThank you for the knowledge, experience and spirit you brought to our APAC team. We will definitely miss you! I am very happy that you can be with your loved one at Christmas.\nWish you all the best and a safe journey!\n\nCheers,\nNoah",
+                "pic": {
+                    "location":  "/pic/Noah/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [120.3556316, 31.2218363],
+                    "zoom": 12,
+                    "pitch": 70
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [120.3556316, 31.2218363]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Noah",
+                "words": "Hi Scott,\n\nThank you for the knowledge, experience and spirit you brought to our APAC team. We will definitely miss you! I am very happy that you can be with your loved one at Christmas.\nWish you all the best and a safe journey!\n\nCheers,\nNoah",
+                "pic": {
+                    "location":  "/pic/Noah/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [120.3556316, 31.2218363],
+                    "zoom": 12,
+                    "pitch": 70
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [120.3556316, 31.2218363]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kevin",
+                "words": "Hi Scott,\nMany thanks for your contributions to the APAC team, looking forward to seeing you next time in person in Beijing.",
+                "pic": {
+                    "location":  "/pic/Kevin/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [116.2732719, 39.9999864],
+                    "zoom": 12,
+                    "pitch": 70
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [116.2732719, 39.9999864]
             }
         },
         {

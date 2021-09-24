@@ -26,8 +26,8 @@ fetch(`people.json`)
                 `)
                 .addTo(map);
             }
-            const h3 = document.createElement('h3');
-            h3.innerText = p.properties.name;
+            const h3 = document.createElement('h1');
+            h3.innerText = '\n' + p.properties.name;
             section.appendChild(h3);
 
             const para = document.createElement('p');
@@ -53,7 +53,7 @@ fetch(`people.json`)
                 `)
                 .addTo(map);
             }
-            map.flyTo({ center: person.properties.settings.center, essential: true },);
+            map.flyTo({ center: person.properties.settings.center, zoom: person.properties.settings.zoom, essential: true },);
             document.getElementById(person.properties.name).classList.add('active');
             document.getElementById(activeName).classList.remove('active');
 
