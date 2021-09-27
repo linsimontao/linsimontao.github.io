@@ -1,5 +1,5 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiZmx5bG92ZXlpbiIsImEiOiJjamxrbDdwYzEwbnRkM3Bvc2FrNXJkdnBqIn0.BcLOSxmkqBsdtirv1YtYVw';
-const start = [121.490577, 31.2402611];
+const start = [103.853053, 1.293146];
 const map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/flyloveyin/cktxsypao0ach17qsaiw1l1eb',
