@@ -30,6 +30,32 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Ben",
+                "words": "Scott,\n\nIt’s been an amazing experience having you in Singapore. You’ve been immensely helpful with ramping up our team and customers like NCS. You set a high bar for future secondments to APAC. It is too bad you did not get to see more of APAC so, we have a reason for you to come back. \n\nThanks again for all that you have done for the team and our customers!\n\nCheers\nBen",
+                "pic": {
+                    "location": "/pic/Ben/location.png"
+                },
+                "settings": {
+                    "bearing": 45,
+                    "center": [
+                        103.8570724,
+                        1.348726
+                    ],
+                    "zoom": 13,
+                    "pitch": 30
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8570724,
+                    1.348726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Alex",
                 "words": "Scott,\n\nTo say you have been the lynchpin of this operation would be the understatement of the century. Thank you for moving across the planet (during a global pandemic no less) to build out the vision for TAM in APAC. You have been instrumental in forming the core culture of this team and we will surely miss you!\n(I took this picture 45 minutes from my front door so please come visit!)\n\nYour brother in baldness, Alex\n",
                 "pic": {
@@ -259,32 +285,6 @@
                 "coordinates": [
                     144.7729551,
                     -37.9722342
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ben",
-                "words": "Scott,\n\nIt’s been an amazing experience having you in Singapore. You’ve been immensely helpful with ramping up our team and customers like NCS. You set a high bar for future secondments to APAC. It is too bad you did not get to see more of APAC so, we have a reason for you to come back. \n\nThanks again for all that you have done for the team and our customers!\n\nCheers\nBen",
-                "pic": {
-                    "location": "/pic/Ben/location.png"
-                },
-                "settings": {
-                    "bearing": 45,
-                    "center": [
-                        103.8570724,
-                        1.348726
-                    ],
-                    "zoom": 13,
-                    "pitch": 30
-                }
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.8570724,
-                    1.348726
                 ]
             }
         },
